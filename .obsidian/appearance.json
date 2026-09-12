@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Encore",
+  "translucency": false,
+  "monospaceFontFamily": "Cascadia Code NF",
+  "textFontFamily": "Helvetica Neue",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "interfaceFontFamily": "Helvetica Neue",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "accentColor": "#9ed0ff"
+}
