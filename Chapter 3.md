@@ -57,7 +57,7 @@ I take a step into the portal, and my field of vision turns all-white for a spli
 
 ---
 
-"Can you tell me where did you come from, Miss Halbert?" Asks the man who sits in front of me. They brought me to a kind of makeshift interrogation room. I guess anyone would be suspicious of a random girl emerging from a portal.
+"Can you tell me where did you come from, Miss Halbert?" Asks a man who sits in front of me, with a badge that says "Jack". They brought me to a kind of makeshift interrogation room. I guess anyone would be suspicious of a random girl emerging from a portal.
 
 "About five kilometers from the portal on the other side."
 
@@ -73,6 +73,58 @@ This is the best way to handle this kind of questioning. Be honest, but reveal n
 
 "Talk to me, miss. We can't help but be suspicious of you. You don't carry any weapon, no ID, nothing to verify your identity. You have to help yourself."
 
-"Yet I've answered all your questions truthfully. To the best of my knowledge. If you want, you can take me to my home and I'll show you a proof of my identity."
+"Yet I've answered all your questions truthfully. To the best of my knowledge. I must've lost my ID back there, so I can't help you much with that. You just have to trust me."
 
-He lets out a heavy sigh. "You're saying that you left your ID at home?"
+He lets out a heavy sigh. "All of you enhanced are always doing whatever you want just because you've gotten a bit stronger than us regular human. Fine, you can go. Just be careful on 64 St, the gate's acting up again."
+
+"Thank you, Jack. I appreciate it."
+
+---
+
+The moment I step out of the portal's administration area, I can see a very ominous dark clouds sending bolts of lightning at regular interface. That's the 64 St, I suppose. Now I'm curious, how is the gate affecting the weather? Well, I haven't got the answer on how seemingly thousands of gates around the world hasn't folded and collapsed this dimension anyway.
+
+"AEGIS, can you reach me?"
+
+*"Loud and clear, Eve. It's clearer than before you moved via the portal."*
+
+"I suppose that makes sense, I'm not much closer to you."
+
+*"Where are you now?"*
+
+"Heading towards 64 St. I want to see how an actual gate looks like. Maybe I'll get a clue on how it was formed." I walk to a dark alley and leap away from wall to wall until I reach the top of an apartment building. "I'm saying this now, it looks very ominous. Coming from me, that should be a compliment."
+
+I leap away one building at a time. Closer and closer to the ominous clouds.
+
+*"Are you playing ninja right now?"
+
+"Excuse me? Do you want me to walk on the street and potentially be recognized by a random person?"
+
+*"You won't be. Most people has already forget about you given how much chaos the world is in right now. As long as you don't do anything conspicuous such as LEAPING FROM ONE BUILDING TO ANOTHER, you'll be fine."*
+
+"Oh, sush! Fine, I'll walk."
+
+My legs land on the edge of a building and quickly jump down to ground level.
+
+*"How are you planning on approaching the gate anyway?"*
+
+"What do you mean how?"
+
+*"Ah, right. My bad. This is the part I haven't told you. You see, a lot of enhanced individuals band together based on their own preferences. These groups of superhumans are now called 'guild'."*
+
+"Guild? As in medieval guild?"
+
+*"That's correct. Just hold your laugh for now. Let me finish. Because of the actual power they hold and how most governments -like all of them- didn't have protocols for this kind of thing. The guilds took ownership of the gates. Like dogs, they mark their territories."*
+
+"I see. This is fascinating. So just like Kurt trying to hunt for monsters and bounties like me, the smarter ones already took their opportunity to seize the bigger ponds."
+
+*"Exactly."*
+
+"And that means I can't just approach these 'marked' gates willy-nilly?"
+
+*"Correct again."*
+
+"Still, I need to see one."
+
+---
+
+AEGIS said that if I see a gate, I'll be thinking that it's similar to a portal. It's not. At least from its appearances. The gate about a hundred meters in front of me is guarded by a lot of personnel. They even have checkpoints of some sort before people can enter it. But what has really caught my eyes is the glowing purple circular energy field towering six stories high with no visible leakage along its perimeter. It really is a self-contained Einstein-Rosen bridge. How is this possible? Now that I know what it is, I have more questions than answers. What is powering this thing? Who created it? Where does it lead actually? What's the pattern? All of these doesn't make any sense. Something must've caused this thing to exist. 
