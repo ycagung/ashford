@@ -2,5 +2,6 @@
   "vimMode": true,
   "showInlineTitle": false,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 2
 }

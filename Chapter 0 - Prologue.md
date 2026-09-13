@@ -3,6 +3,10 @@ tags:
   - chapter
 title: Everything, Everywhere, All at Once
 ---
+# Chapter 0 - Everything, Everywhere, All at Once
+
+---
+
 "Yes, the man in blue," I said, pointing my finger to the journalist at the back of the crowd. While thousand camera flashes are hitting me relentlessly like a bunch of M50s operated by poor-sighted soldiers. I'd prefer the M50s, actually. Something that I can really dodge, or deflect for that matter. Whatever.
 
 "Evelyn, you just hit ten million subs on YouTube the other day. How do you feel about that?" The man in blue speaks.
@@ -175,7 +179,7 @@ Then the world really goes still, like it has lost its momentum to time. The fal
 
 I turn my body to face the hallway. But just that motion creates a trail of shockwave following every tip of my body. Each shockwave gives my clothes a new tear. Shoulders, chest, stomach, back. I don't care, moving three times faster than sound is the only way I can stop this neutron bomb from leaving this place. 
 
-My right leg contracts, then with all my power kicks the ground, or more precisely, disintegrating it. My body propels forward with unimaginable force, leaving a trail of sonic booms and destruction in its path. In an instant I arrived at the elevator and quickly change my trajectory downwards, breaking through the elevator floor. 
+My right leg contracts, then with all my power kicks the ground, or more precisely, disintegrating it. My body propels forward with unimaginable force, leaving a trail of also frozen in time sonic booms and destruction in its path. In an instant I arrived at the elevator and quickly change my trajectory downwards, breaking through the elevator floor. 
 
 I'm falling down for about a few seconds before I land with a loud boom shattering the ground on the bottom most floor. A white missile is spewing a frozen-in-time flame in front of me. *Found the payload.* I leap again right to its side panel, tearing through the cover to reveal the wiring and the cluster of smaller missiles inside. I immediately recognize that the bomb inside it has already been armed and there's no way to disarm it. The only way to stop it is to detonate it right now. Blowing everything away, along with me. 
 

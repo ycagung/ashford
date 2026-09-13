@@ -6,7 +6,6 @@
       {
         "id": "dc1d0304a1821d1f",
         "type": "tabs",
-        "dimension": 61.096256684491976,
         "children": [
           {
             "id": "1ed14febee443c09",
@@ -14,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 0 - Prologue.md",
+                "file": "Chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 0 - Prologue"
+              "title": "Chapter 2"
+            }
+          },
+          {
+            "id": "9b2bce798ded6045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3"
             }
           },
           {
@@ -35,26 +48,23 @@
               "icon": "lucide-file",
               "title": "Chapter 1"
             }
+          },
+          {
+            "id": "4ba9d9307977c96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "17e844cdd7074f0a",
-        "type": "tabs",
-        "dimension": 38.903743315508024,
-        "children": [
-          {
-            "id": "025bdd67c316f0b4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +228,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "729d967ecb15f3bf",
+  "active": "9b2bce798ded6045",
   "lastOpenFiles": [
-    "Chapter 0 - Prologue.md",
+    "Chapter 2.md",
+    "Chapter 3.md",
     "Chapter 1.md",
+    "Chapter 0 - Prologue.md",
     "Welcome.md"
   ]
 }
