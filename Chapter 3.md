@@ -9,29 +9,29 @@ title:
 
 "Huh, when he said he was on the weaker side of the enhanced, I suppose he wasn't lying."
 
-I'm crouching in front of Kurt's cold corpse with a hold in his chest.
+I'm crouching in front of Kurt's cold corpse with a hole in his chest.
 
 *"Come on, Eve. Let him be."*
 
 Looking at the portal, I try to simulate some scenarios on how things will unfold on the other side.
 
-"I have to do something about my appearances."
+"I have to do something about my appearance."
 
 *"What about it? You're not looking the most dashing now, but I don't think you'll scare children."*
 
 "That's the least of my concern, AEGIS. You said I'm a wanted woman, right? Even Kurt recognized me that quickly. I need to be inconspicuous, and this silver hair won't help me. Now I regret not creating an appearance altering module."
 
-*"You kidding? You love your appearances, prin-cess. There's no way you'd create something like that."*
+*"You kidding? You love your appearance, prin-cess. There's no way you'd create something like that."*
 
 "Oh, shut up, will you?"
 
-My hand goes to Kurt's pockets, looking for something that can be used to disguise myself. First thing I found is a knife. Without any hesitation, I gather my long silver hair into one bundle and cut it short with the knife. At least now I look like a messy beggar with almost shoulder-length messy white hair. 
+My hand goes to Kurt's pockets, looking for something that can be used to disguise myself. First thing I found was a knife. Without any hesitation, I gather my long silver hair into one bundle and cut it short with the knife. At least now I look like a messy beggar with almost shoulder-length messy white hair. 
 
 A minute later, I'm already standing right in front of the portal. A glowing white circle the size of a human.
 
 "Kurt said this is made by magic, correct?"
 
-*"According to my database. It is categorized as spatial magic, more specifically a semi-permanent long-distance one. There's only about five recorded individual that can 'conjure' a portal. So it's categorized as a highly complex 'spell'."*
+*"According to my database. It is categorized as spatial magic, more specifically a semi-permanent long-distance one. There's only about five recorded individuals that can 'conjure' a portal. So it's categorized as a highly complex 'spell'."*
 
 "Right. I should get used to the jargon. This portal looks a lot like Einstein-Rosen bridge. A very effective one at that. I don't see any energy spilling out of its boundaries."
 
@@ -43,15 +43,15 @@ A minute later, I'm already standing right in front of the portal. A glowing whi
 
 "Alright, here goes nothing."
 
-I take a step into the portal, and my field of vision turns all-white for a split second before changing into something else entirely. I can see ten men wearing military uniform standing by with their M4s in front of me. As if they're constantly waiting for a threat to show up. But when they see a dirty girl wearing oversized fur coat over torn clothes and boots, they completely change their stance.
+I take a step into the portal, and my field of vision turns all-white for a split second before changing into something else entirely. I can see ten men wearing military uniform standing by with their M4s in front of me. As if they're constantly waiting for a threat to show up. But when they see a dirty girl wearing an oversized fur coat over torn clothes and boots, they completely change their stance.
 
-"State your name!" One of them shout. 
+"State your name!" One of them shouts. 
 
 "E-" Nope, I should not use my real one. "June Halbert." One of them steps in front and proceeds to pat me. To which I almost break his arm. "Hey! Don't you need to ask for consent first?!"
 
 "Consent is not necessary for anything that comes out of a portal or a gate, miss. Now do you want me to continue or do you want my friends to open fire?"
 
-"Alright, alright. Just don't do anything funny." I hold up both my hands. Won't mess with me, my ass. They immediately do a forced search on my body. Though I would do the same in this situation.
+"Alright, alright. Just don't do anything funny." I hold up both my hands. So much for 'won't mess with me'. They immediately do a forced search on my body. Though I would do the same in this situation.
 
 "She's clear. Bring her to quarantine!" Says the man who patted me down.
 
@@ -75,13 +75,13 @@ This is the best way to handle this kind of questioning. Be honest, but reveal n
 
 "Yet I've answered all your questions truthfully. To the best of my knowledge. I must've lost my ID back there, so I can't help you much with that. You just have to trust me."
 
-He lets out a heavy sigh. "All of you enhanced are always doing whatever you want just because you've gotten a bit stronger than us regular human. Fine, you can go. Just be careful on 64 St, the gate's acting up again."
+He lets out a heavy sigh. "All of you enhanced are always doing whatever you want just because you've gotten a bit stronger than us regular humans. Fine, you can go. Just be careful on 64 St, the gate's acting up again."
 
 "Thank you, Jack. I appreciate it."
 
 ---
 
-The moment I step out of the portal's administration area, I can see a very ominous dark clouds sending bolts of lightning at regular interface. That's the 64 St, I suppose. Now I'm curious, how is the gate affecting the weather? Well, I haven't got the answer on how seemingly thousands of gates around the world hasn't folded and collapsed this dimension anyway.
+The moment I step out of the portal's administration area, I can see very ominous dark clouds sending bolts of lightning at regular intervals. That's the 64 St, I suppose. Now I'm curious, how is the gate affecting the weather? Well, I haven't got the answer on how seemingly thousands of gates around the world hasn't folded and collapsed this dimension anyway.
 
 "AEGIS, can you reach me?"
 
@@ -95,13 +95,13 @@ The moment I step out of the portal's administration area, I can see a very omin
 
 I leap away one building at a time. Closer and closer to the ominous clouds.
 
-*"Are you playing ninja right now?"
+*"Are you playing ninja right now?"*
 
 "Excuse me? Do you want me to walk on the street and potentially be recognized by a random person?"
 
-*"You won't be. Most people has already forget about you given how much chaos the world is in right now. As long as you don't do anything conspicuous such as LEAPING FROM ONE BUILDING TO ANOTHER, you'll be fine."*
+*"You won't be. Most people have already forgotten about you given how much chaos the world is in right now. As long as you don't do anything conspicuous such as LEAPING FROM ONE BUILDING TO ANOTHER, you'll be fine."*
 
-"Oh, sush! Fine, I'll walk."
+"Oh, shush! Fine, I'll walk."
 
 My legs land on the edge of a building and quickly jump down to ground level.
 
@@ -127,4 +127,25 @@ My legs land on the edge of a building and quickly jump down to ground level.
 
 ---
 
-AEGIS said that if I see a gate, I'll be thinking that it's similar to a portal. It's not. At least from its appearances. The gate about a hundred meters in front of me is guarded by a lot of personnel. They even have checkpoints of some sort before people can enter it. But what has really caught my eyes is the glowing purple circular energy field towering six stories high with no visible leakage along its perimeter. It really is a self-contained Einstein-Rosen bridge. How is this possible? Now that I know what it is, I have more questions than answers. What is powering this thing? Who created it? Where does it lead actually? What's the pattern? All of these doesn't make any sense. Something must've caused this thing to exist. 
+AEGIS said that if I see a gate, I'll be thinking that it's similar to a portal. It's not. At least from its appearances. The gate about a hundred meters in front of me is guarded by a lot of personnel. They even have checkpoints of some sort before people can enter it. But what has really caught my eyes is the glowing purple circular energy field towering six stories high with no visible leakage along its perimeter. It really is a self-contained Einstein-Rosen bridge. How is this possible? Now that I know what it is, I have more questions than answers. What is powering this thing? Who created it? Where does it lead actually? What's the pattern? This doesn't make any sense at all to me. Something must've caused this thing to exist. There's no way anything can exist without causality.  
+
+"How many models have you run on this?"
+
+*"Exactly two million seven hundred and thirty six."*
+
+"How many of those calculate negative energy output on its surface?"
+
+*"Thirty six. But all of them were based on assumption. We don't have an actual sample. Look, Eve, I know you're extremely curious about this. But don't you think that we have more pressing matters?"*
+
+"More pressing matters as in 'my companies that I've spent my whole life building was taken over by the most greedy government in the world'?"
+
+*"Yes, something like that."*
+
+"Don't worry. Stream wasn't mine, it is me, it will come back to me sooner rather than later. For now, I'm getting one of those gates."
+
+*"And how do you plan on doing that?"*
+
+"How much are they?"
+
+*"You can't afford them. You're broke, Eve."*
+
