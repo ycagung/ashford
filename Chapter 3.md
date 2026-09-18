@@ -141,11 +141,25 @@ AEGIS said that if I see a gate, I'll be thinking that it's similar to a portal.
 
 *"Yes, something like that."*
 
-"Don't worry. Stream wasn't mine, it is me, it will come back to me sooner rather than later. For now, I'm getting one of those gates."
+"I wouldn't worry. Stream wasn't mine, it is me, it's bound to come back sooner rather than later. For now, I'm getting one of those gates."
 
-*"And how do you plan on doing that?"*
+*"With what money?"*
 
-"How much are they?"
+My eyes goes up staring at the distance. "Right... I should get some from the safe house."
 
-*"You can't afford them. You're broke, Eve."*
+---
+
+"You said this safe house was safe, right?" 
+
+I'm staring at a crater where my safe house should be standing. There's nothing much left, as I said, it's a crater.
+
+*"Yes. I assumed it was."*
+
+"Then how come you didn't know if someone had blown it to smithereens?"
+
+*"Well, that would be because we, or you specifically, purposely didn't put some of the safe houses inside our sub-net, this one included. So I can't have 24/7 surveillance over it. The last time I pinged it from upstream, it was fine."*
+
+"Yeah, I thought that if our sub-net was breached then the safe houses wouldn't be safe houses anymore. I suppose now is the other way around. So, where's the closest safe house that's confirmed safe?"
+
+*"Korea"*
 

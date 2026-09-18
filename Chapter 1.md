@@ -67,7 +67,7 @@ It's a wolf, at least it looks like one. Aside from the vibrant blue fur coverin
 
 "Hey! You! What are you doing here? Who are you?"
 
-I turn over and see a man wearing hunting clothes. Well, if this is 1600s, that hunting clothes would be pretty trendy. Funnily enough, he carries an AR15, pointing at me. Pretty bizarre set of looks if I say so myself, but then, I'm the one standing at the arctic wearing undergarments. 
+I turn over and see a man wearing hunting clothes. Well, if this is 1600s, that hunting clothes would be pretty trendy. Funnily enough, he carries an AR15, pointing at me. Pretty bizarre set of looks if I do say so myself, but then, I'm the one standing at the arctic wearing undergarments. 
 
 "Why don't you introduce yourself first? It's a common courtesy when you ask for someone's name."
 

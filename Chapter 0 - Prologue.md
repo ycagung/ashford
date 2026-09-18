@@ -89,7 +89,7 @@ My hand knocks on the steel door three times like a polite person.
 
 No answer. Alright, force it is. 
 
-I send a light punch and in an instant, the steel door deformed like a crumpled paper and was blown away, revealing what's inside. Or rather, who.
+I throw a light punch and in an instant, the steel door deformed like a crumpled paper and was blown away, revealing what's inside. Or rather, who.
 
 A man leaning on his desk, dressed like a formal military man. Quite a bit older than what I remembered. Yeah, well, my memory of him was from twenty years ago anyway.
 
@@ -165,7 +165,7 @@ A violent rumble vibrates the entire structure. Walls cracking, lights flickerin
 
 Now I get it. He built his compound here is because he knew exactly what my satellites are capable of. And the only thing that will slow my reconnaissance power is just... depth. He placed Project Nova, a neutron bomb with a lower yield than the ones in the cold war but spreads its gamma radiation in a much much wider area. The last recon file calculated its coverage to be about the size of the state of Texas. They're trying to kill people without destroying much of anything else. 
 
-"Try to catch it, girl." 
+"Let's go down together." 
 
 I take a deep breath, close my eyes. In a matter of just two seconds the trembling world seems to forget its state. Replaced by a new state of stillness. The temperature drops violently, water droplets form around me, the desk, the walls, then instantly turn into ice particles. When I open my eyes, a slight blue glow is emanating from it. 
 
@@ -181,7 +181,7 @@ I turn my body to face the hallway. But just that motion creates a trail of shoc
 
 My right leg contracts, then with all my power kicks the ground, or more precisely, disintegrating it. My body propels forward with unimaginable force, leaving a trail of also frozen in time sonic booms and destruction in its path. In an instant I arrived at the elevator and quickly change my trajectory downwards, breaking through the elevator floor. 
 
-I'm falling down for about a few seconds before I land with a loud boom shattering the ground on the bottom most floor. A white missile is spewing a frozen-in-time flame in front of me. *Found the payload.* I leap again right to its side panel, tearing through the cover to reveal the wiring and the cluster of smaller missiles inside. I immediately recognize that the bomb inside it has already been armed and there's no way to disarm it. The only way to stop it is to detonate it right now. Blowing everything away, along with me. 
+I'm falling down in a fraction of a second before landing with a loud boom shattering the ground on the bottom most floor. A white missile is spewing a frozen-in-time flame in front of me. *Found the payload.* I leap again right to its side panel, tearing through the cover to reveal the wiring and the cluster of smaller missiles inside. I immediately recognize that the bomb inside it has already been armed and there's no way to disarm it. The only way to stop it is to detonate it right now. Blowing everything away, along with me. 
 
 I turn off the dilation mode and the world snaps back to its original pace at once. The rumbles come back stronger, vibration, sound, everything. My clothes mostly torn apart, what's left just clings loosely to my body. Burning pain caused by the air friction from the last few seconds hit me like somebody is peeling off my skin. I should've just listened to AEGIS and took my armor suit. Well, what's done is done, I can't stop now, I need to do one last thing. 
 

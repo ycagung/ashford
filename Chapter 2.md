@@ -131,7 +131,7 @@ I leap to Kurt's direction right before another shot comes. In a flash I'm alrea
 
 "Come out both of you! Or the next thing that will break is his neck!"
 
-VOOM! A glowing red beam of laser penetrate instantly through both our left torsos, leaving a gaping hole about the size of a golf ball. Fuck! Really? They are willing to kill their own man?
+VOOM! A glowing red laser beam penetratess instantly through both our left torsos, leaving a gaping hole about the size of a golf ball. Fuck! Really? They are willing to kill their own man?
 
 Kurt vomits out blood from his mouth and nose, immediately collapses and convulses half-dead. Hah, serves you right! I push the ground to the side, quickly moving out of their line of sight and hiding behind a big boulder. 
 
@@ -145,7 +145,7 @@ Kurt vomits out blood from his mouth and nose, immediately collapses and convuls
 
 *"Beginning calculations... Two. You can only do two in an hour. Any more will further damage your circuits."*
 
-"Alright, noted. Did you see the laser beam earlier?"
+"Alright, noted. I need just one. Did you see the laser beam earlier?"
 
 *"Yes. It's ours. Kusanagi model SPP14. It's the older model, it needs to recharge for ten minutes between shots."*
 
@@ -155,9 +155,9 @@ Kurt vomits out blood from his mouth and nose, immediately collapses and convuls
 
 As if prompted by the notification, I leap over the boulder and start sprinting. A shot comes through, then another, and another, dodged by a hair's width each time. I run faster and faster with each second, occasionally leaping from side to side to confuse the enemies. Little by little, I can make out their shapes. Two men, dressed completely white hiding behind a cluster of rocks. 
 
-Fifty meters left. Dodge. Forty. Thirty. Dodge again. Twenty. Ten. Dodge.
+Fifty meters left. Dodge. Forty. Thirty. Dodge again. Twenty. Ten. Dodge. Five. *Blink.*
 
-Then I vanish into thin air. Both men seem surprised and start to scan the surrounding with their scope. While I've already reappeared quietly right behind them. I simply stomp both their legs to incapacitate them. Only then they notice me, or more like wailing painfully at me. I'm going to go deaf from all these wailing. I take both their weapons while they're busy crying over their smashed legs. 
+I vanish into thin air. Both men seem surprised and start to scan the surrounding with their scope. While I've already reappeared quietly right behind them. I simply stomp both their legs to incapacitate them. Only then they notice me, or more like wailing painfully at me. I'm going to go deaf from all these wailing. I take both their weapons while they're busy crying over their smashed legs. 
 
 "Look. Guys. Apparently, I've been in this frozen tundra for over five years. Can't say I'm a big fan of the weather here either. So help a girl out, won't you?" I forcefully take one of their furry white coats and the pair of boots they're wearing. "Now that's more like it."
 
