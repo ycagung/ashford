@@ -3,11 +3,11 @@ tags:
   - chapter
 title: Everything, Everywhere, All at Once
 ---
-# Chapter 0 - Everything, Everywhere, All at Once
+# Prologue 1 - Everything, Everywhere, All at Once
 
 ---
 
-"Yes, the man in blue," I said, pointing my finger to the journalist at the back of the crowd. While thousand camera flashes are hitting me relentlessly like a bunch of M50s operated by poor-sighted soldiers. I'd prefer the M50s, actually. Something that I can really dodge, or deflect for that matter. Whatever.
+"Yes, the man in blue," I said, pointing my finger to the journalist at the back of the crowd. While a thousand camera flashes are hitting me relentlessly like a bunch of M50s operated by poor-sighted soldiers. I'd prefer the M50s, actually. Something that I can really dodge, or deflect for that matter. Whatever.
 
 "Evelyn, you just hit ten million subs on YouTube the other day. How do you feel about that?" The man in blue speaks.
 
