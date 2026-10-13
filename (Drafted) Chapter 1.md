@@ -79,7 +79,7 @@ He walks closer, still pointing his rifle at me, then he catches the view of the
 
 He gets up and faces me again. "Is that why your clothes... Er..."
 
-"No. This is caused by something else." He takes off his fur jacket and offers it to me. Such a gentleman. Even though I can immediately see him visibly shaking.
+"No. This was caused by something else." He takes off his fur jacket and offers it to me. Such a gentleman. Even though I can immediately see him visibly shaking.
 
 "The name's Kurt. Wear this. You must be freezing." 
 

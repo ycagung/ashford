@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prologue 2.md",
+                "file": "Meta/Evelyn Ashford - Residence.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prologue 2"
+              "title": "Evelyn Ashford - Residence"
             }
           },
           {
@@ -244,11 +244,20 @@
   },
   "active": "e71b90efdb741297",
   "lastOpenFiles": [
-    "Prologue 1.md",
-    "Prologue 2.md",
-    "(Darfted) Chapter 3.md",
+    "Meta/Post Beacon Power System.md",
+    "Meta/Evelyn Ashford - Residence.md",
+    "Meta/Post Beacon World State.md",
+    "Meta/Trans-Dimensional Metaphysics.md",
+    "Meta/Stream Corp.md",
+    "Meta/Evelyn Ashford - Armory.md",
+    "Meta/Evelyn Ashford - Physical Specification.md",
+    "Meta/Evelyn Ashford - Character Profile.md",
+    "(Drafted) Chapter 3.md",
+    "Meta",
     "(Drafted) Chapter 2.md",
     "(Drafted) Chapter 1.md",
+    "Prologue 2.md",
+    "Prologue 1.md",
     "Welcome.md"
   ]
 }

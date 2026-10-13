@@ -88,7 +88,7 @@ The moment I step out of the portal's administration area, I can see very ominou
 
 *"Loud and clear, Eve. It's clearer than before you moved via the portal."*
 
-"I suppose that makes sense, I'm not much closer to you."
+"I suppose that makes sense, I'm now much closer to you."
 
 *"Where are you now?"*
 
